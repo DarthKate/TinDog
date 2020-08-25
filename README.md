@@ -1,1 +1,2 @@
-TinDog Starting Files
+TinDog - web application like Tinder, only for dogs :)
+
